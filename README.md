@@ -6,7 +6,7 @@
 $ git clone https://github.com/wdonnell/express-filegen-example
 
 # Go into the repository
-$ cd db-viewer
+$ cd express-filegen-example
 
 # Install dependencies
 $ npm install
